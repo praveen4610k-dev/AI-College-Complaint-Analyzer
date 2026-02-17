@@ -1,0 +1,12 @@
+Complaint,Category,Department,Priority,Status,Submitted_Date
+praveen,Exam,General Office,Low,Pending,31-01-2026 12:45:03
+There is a complaint in exam cell,Exam,General Office,Low,Pending,31-01-2026 12:46:31
+There is complaint in exam hall allotment,Exam,General Office,Low,Pending,31-01-2026 12:49:36
+There is a complaint in exam hall allotment,Exam,General Office,Low,Pending,31-01-2026 12:51:29
+Drinking water is not edible to drink.,Exam,General Office,Low,Pending,31-01-2026 13:47:01
+hostel food is very bad.,Exam,General Office,Low,Pending,31-01-2026 13:47:56
+hostel food is very bad.,Exam,General Office,Low,Pending,31-01-2026 13:51:19
+hostel food is very bad.,Exam,General Office,High,Pending,31-01-2026 13:51:33
+hostel food is very bad,Hostel,Hostel Office,High,Pending,31-01-2026 13:56:13
+toilet is not clean,Infrastructure,Maintenance,Low,Pending,31-01-2026 13:58:23
+i have a complaint in faculty teaching,Academic,Academic Department,Low,Pending,09-02-2026 11:38:22

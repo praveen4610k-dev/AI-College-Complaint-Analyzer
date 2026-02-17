@@ -1,0 +1,69 @@
+complaint,category
+Hostel food quality is poor,Hostel
+Room cleaning is not done regularly,Hostel
+Faculty does not explain concepts clearly,Faculty
+Teacher comes late to class,Faculty
+Exam timetable is confusing,Exam
+Results are delayed,Exam
+Bus timing is not proper,Transport
+College bus is overcrowded,Transport
+Washrooms are not clean,Infrastructure
+Classroom fans not working,Infrastructure
+Office staff is not responding,Administration
+Certificate issue is delayed,Administration
+
+Complaint,Category
+There is no water supply in the hostel bathroom,Hostel
+Hostel food quality is very poor,Hostel
+Room lights are not working in hostel,Hostel
+Hostel wifi is very slow,Hostel
+Washrooms are not cleaned regularly in hostel,Hostel
+Bed bugs problem in hostel rooms,Hostel
+Hostel gate closes too early,Hostel
+Drinking water purifier not working in hostel,Hostel
+Fan not working in hostel room,Hostel
+Noise disturbance in hostel at night,Hostel
+
+Bus is not coming on time,Transport
+College bus is overcrowded,Transport
+Bus route has been changed without notice,Transport
+Bus driver drives rashly,Transport
+Bus breakdown happens frequently,Transport
+No bus facility for evening classes,Transport
+Transport office not responding properly,Transport
+Bus stop location is inconvenient,Transport
+Bus fare is increased suddenly,Transport
+College bus seats are damaged,Transport
+
+Classroom projector is not working,Infrastructure
+Fans not working in classroom,Infrastructure
+Classroom benches are broken,Infrastructure
+Power cut occurs frequently in lab,Infrastructure
+Washroom lights not working in college building,Infrastructure
+College internet is very slow,Infrastructure
+Air conditioner not working in seminar hall,Infrastructure
+Lift is not working properly,Infrastructure
+Library computers are outdated,Infrastructure
+Parking area lights not functioning,Infrastructure
+
+Syllabus not completed on time,Academic
+Faculty not explaining concepts clearly,Academic
+Classes are not conducted regularly,Academic
+Exam timetable released very late,Academic
+Internal marks not updated properly,Academic
+Notes are not provided on time,Academic
+Lab sessions are insufficient,Academic
+Too much syllabus for semester,Academic
+Online classes quality is poor,Academic
+Doubt sessions are not conducted,Academic
+
+Office staff behavior is rude,Administration
+Scholarship amount not credited yet,Administration
+Bonafide certificate delayed,Administration
+ID card not issued yet,Administration
+Fee receipt not generated properly,Administration
+Office closes before working hours,Administration
+Documents verification delayed,Administration
+No proper response from admin office,Administration
+Transfer certificate process is slow,Administration
+College circulars not informed properly,Administration
